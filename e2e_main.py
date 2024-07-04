@@ -53,8 +53,12 @@ model_aug = deepcopy(model_ori)
 
 # embedding fusion module
 # the default embedding dimension is 64
+
 model_cal = merger(in_dim=128, hidden_dim=64, out_dim=64, num_layers=args.n_layer, dropout=0).to(device)
 model_cal.reset_parameters()
+
+# 消融-融合
+# model_cal=AverageMerger()
 
 best_hit = 0
 best_epoch = 0

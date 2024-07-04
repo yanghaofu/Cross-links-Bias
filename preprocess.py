@@ -74,7 +74,7 @@ def edge_split(graph, split_edge, augmentation, args):
     # 生成增强的监督集
     if augmentation:
         if args.aug_type == 'jaccard':
-            graph, split_edge = pseudo_generation(graph, membership, split_edge, add_edge=args.add_edge, aug_size=args.aug_size,true_aug=0)
+            graph, split_edge = pseudo_generation(graph, membership, split_edge, add_edge=args.add_edge, aug_size=args.aug_size)
         elif args.aug_type == 'random':
             graph, split_edge = random_generation(graph, membership, split_edge, add_edge=args.add_edge, aug_size=args.aug_size)
         else:
