@@ -1,0 +1,15 @@
+_MACOSX/
+
+_pycache_/
+
+.ipynb_checkpoints
+
+beifen/
+
+dataset/
+
+*.whl
+
+trained_model/*.pt
+
+*.pyc
