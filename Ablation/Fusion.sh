@@ -8,7 +8,7 @@ python e2e_main.py \
     --ori_lr 0.001 \
     --aug_lr 0.001 \
     --batch_size 4096 \
-    --epochs 105 \
+    --epochs 110 \
     --threshold 100 \
     --n_layer 2 \
     --add_edge 0 \
@@ -32,7 +32,7 @@ python e2e_main.py \
     --ori_lr 0.001 \
     --aug_lr 0.001 \
     --batch_size 4096 \
-    --epochs 105 \
+    --epochs 110 \
     --threshold 25 \
     --n_layer 1 \
     --add_edge 0 \

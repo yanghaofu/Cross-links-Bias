@@ -1,0 +1,273 @@
+2024-07-05 23:55:16,483 - INFO - >> EPOCH 001, Group 0 hit@50: 0.1693, Group 1 hit@50: 0.2403, Overall hit@50: 0.1946.
+2024-07-05 23:55:16,563 - INFO - Saved best model
+2024-07-05 23:55:24,419 - INFO - >> EPOCH 002, Group 0 hit@50: 0.2440, Group 1 hit@50: 0.3153, Overall hit@50: 0.2694.
+2024-07-05 23:55:24,540 - INFO - Saved best model
+2024-07-05 23:55:32,036 - INFO - >> EPOCH 003, Group 0 hit@50: 0.2555, Group 1 hit@50: 0.3262, Overall hit@50: 0.2807.
+2024-07-05 23:55:32,141 - INFO - Saved best model
+2024-07-05 23:55:39,581 - INFO - >> EPOCH 004, Group 0 hit@50: 0.2610, Group 1 hit@50: 0.3212, Overall hit@50: 0.2824.
+2024-07-05 23:55:39,682 - INFO - Saved best model
+2024-07-05 23:55:46,691 - INFO - >> EPOCH 005, Group 0 hit@50: 0.2799, Group 1 hit@50: 0.3321, Overall hit@50: 0.2985.
+2024-07-05 23:55:46,788 - INFO - Saved best model
+2024-07-05 23:55:53,802 - INFO - >> EPOCH 006, Group 0 hit@50: 0.2978, Group 1 hit@50: 0.3366, Overall hit@50: 0.3116.
+2024-07-05 23:55:53,908 - INFO - Saved best model
+2024-07-05 23:56:00,886 - INFO - >> EPOCH 007, Group 0 hit@50: 0.3119, Group 1 hit@50: 0.3346, Overall hit@50: 0.3200.
+2024-07-05 23:56:00,975 - INFO - Saved best model
+2024-07-05 23:56:07,927 - INFO - >> EPOCH 008, Group 0 hit@50: 0.3214, Group 1 hit@50: 0.3276, Overall hit@50: 0.3236.
+2024-07-05 23:56:08,014 - INFO - Saved best model
+2024-07-05 23:56:14,928 - INFO - >> EPOCH 009, Group 0 hit@50: 0.3377, Group 1 hit@50: 0.3279, Overall hit@50: 0.3342.
+2024-07-05 23:56:15,026 - INFO - Saved best model
+2024-07-05 23:56:21,900 - INFO - >> EPOCH 010, Group 0 hit@50: 0.3577, Group 1 hit@50: 0.3352, Overall hit@50: 0.3497.
+2024-07-05 23:56:21,990 - INFO - Saved best model
+2024-07-05 23:56:28,939 - INFO - >> EPOCH 011, Group 0 hit@50: 0.3605, Group 1 hit@50: 0.3332, Overall hit@50: 0.3508.
+2024-07-05 23:56:29,027 - INFO - Saved best model
+2024-07-05 23:56:35,951 - INFO - >> EPOCH 012, Group 0 hit@50: 0.3628, Group 1 hit@50: 0.3310, Overall hit@50: 0.3515.
+2024-07-05 23:56:36,061 - INFO - Saved best model
+2024-07-05 23:56:42,919 - INFO - >> EPOCH 013, Group 0 hit@50: 0.3611, Group 1 hit@50: 0.3282, Overall hit@50: 0.3494.
+2024-07-05 23:56:49,850 - INFO - >> EPOCH 014, Group 0 hit@50: 0.3700, Group 1 hit@50: 0.3344, Overall hit@50: 0.3573.
+2024-07-05 23:56:49,935 - INFO - Saved best model
+2024-07-05 23:56:56,819 - INFO - >> EPOCH 015, Group 0 hit@50: 0.3725, Group 1 hit@50: 0.3344, Overall hit@50: 0.3589.
+2024-07-05 23:56:56,904 - INFO - Saved best model
+2024-07-05 23:57:03,783 - INFO - >> EPOCH 016, Group 0 hit@50: 0.3723, Group 1 hit@50: 0.3282, Overall hit@50: 0.3566.
+2024-07-05 23:57:10,609 - INFO - >> EPOCH 017, Group 0 hit@50: 0.3768, Group 1 hit@50: 0.3318, Overall hit@50: 0.3608.
+2024-07-05 23:57:10,697 - INFO - Saved best model
+2024-07-05 23:57:17,634 - INFO - >> EPOCH 018, Group 0 hit@50: 0.3807, Group 1 hit@50: 0.3355, Overall hit@50: 0.3646.
+2024-07-05 23:57:17,730 - INFO - Saved best model
+2024-07-05 23:57:24,598 - INFO - >> EPOCH 019, Group 0 hit@50: 0.3865, Group 1 hit@50: 0.3380, Overall hit@50: 0.3692.
+2024-07-05 23:57:24,688 - INFO - Saved best model
+2024-07-05 23:57:31,533 - INFO - >> EPOCH 020, Group 0 hit@50: 0.3900, Group 1 hit@50: 0.3403, Overall hit@50: 0.3723.
+2024-07-05 23:57:31,617 - INFO - Saved best model
+2024-07-05 23:57:38,505 - INFO - >> EPOCH 021, Group 0 hit@50: 0.3934, Group 1 hit@50: 0.3411, Overall hit@50: 0.3748.
+2024-07-05 23:57:38,586 - INFO - Saved best model
+2024-07-05 23:57:45,447 - INFO - >> EPOCH 022, Group 0 hit@50: 0.3900, Group 1 hit@50: 0.3394, Overall hit@50: 0.3720.
+2024-07-05 23:57:52,365 - INFO - >> EPOCH 023, Group 0 hit@50: 0.3920, Group 1 hit@50: 0.3417, Overall hit@50: 0.3741.
+2024-07-05 23:57:59,241 - INFO - >> EPOCH 024, Group 0 hit@50: 0.3941, Group 1 hit@50: 0.3442, Overall hit@50: 0.3763.
+2024-07-05 23:57:59,325 - INFO - Saved best model
+2024-07-05 23:58:06,199 - INFO - >> EPOCH 025, Group 0 hit@50: 0.3975, Group 1 hit@50: 0.3462, Overall hit@50: 0.3792.
+2024-07-05 23:58:06,296 - INFO - Saved best model
+2024-07-05 23:58:13,260 - INFO - >> EPOCH 026, Group 0 hit@50: 0.4015, Group 1 hit@50: 0.3509, Overall hit@50: 0.3835.
+2024-07-05 23:58:13,351 - INFO - Saved best model
+2024-07-05 23:58:20,201 - INFO - >> EPOCH 027, Group 0 hit@50: 0.3993, Group 1 hit@50: 0.3492, Overall hit@50: 0.3815.
+2024-07-05 23:58:27,050 - INFO - >> EPOCH 028, Group 0 hit@50: 0.4023, Group 1 hit@50: 0.3526, Overall hit@50: 0.3846.
+2024-07-05 23:58:27,139 - INFO - Saved best model
+2024-07-05 23:58:34,088 - INFO - >> EPOCH 029, Group 0 hit@50: 0.4023, Group 1 hit@50: 0.3490, Overall hit@50: 0.3833.
+2024-07-05 23:58:40,972 - INFO - >> EPOCH 030, Group 0 hit@50: 0.4034, Group 1 hit@50: 0.3529, Overall hit@50: 0.3854.
+2024-07-05 23:58:41,071 - INFO - Saved best model
+2024-07-05 23:58:47,999 - INFO - >> EPOCH 031, Group 0 hit@50: 0.4054, Group 1 hit@50: 0.3540, Overall hit@50: 0.3871.
+2024-07-05 23:58:48,090 - INFO - Saved best model
+2024-07-05 23:58:55,313 - INFO - >> EPOCH 032, Group 0 hit@50: 0.4062, Group 1 hit@50: 0.3501, Overall hit@50: 0.3862.
+2024-07-05 23:59:02,634 - INFO - >> EPOCH 033, Group 0 hit@50: 0.4085, Group 1 hit@50: 0.3560, Overall hit@50: 0.3898.
+2024-07-05 23:59:02,720 - INFO - Saved best model
+2024-07-05 23:59:09,679 - INFO - >> EPOCH 034, Group 0 hit@50: 0.4108, Group 1 hit@50: 0.3577, Overall hit@50: 0.3919.
+2024-07-05 23:59:09,773 - INFO - Saved best model
+2024-07-05 23:59:16,632 - INFO - >> EPOCH 035, Group 0 hit@50: 0.4143, Group 1 hit@50: 0.3605, Overall hit@50: 0.3951.
+2024-07-05 23:59:16,718 - INFO - Saved best model
+2024-07-05 23:59:23,599 - INFO - >> EPOCH 036, Group 0 hit@50: 0.4175, Group 1 hit@50: 0.3636, Overall hit@50: 0.3983.
+2024-07-05 23:59:23,690 - INFO - Saved best model
+2024-07-05 23:59:30,650 - INFO - >> EPOCH 037, Group 0 hit@50: 0.4191, Group 1 hit@50: 0.3638, Overall hit@50: 0.3994.
+2024-07-05 23:59:30,761 - INFO - Saved best model
+2024-07-05 23:59:37,696 - INFO - >> EPOCH 038, Group 0 hit@50: 0.4194, Group 1 hit@50: 0.3619, Overall hit@50: 0.3989.
+2024-07-05 23:59:44,518 - INFO - >> EPOCH 039, Group 0 hit@50: 0.4217, Group 1 hit@50: 0.3602, Overall hit@50: 0.3998.
+2024-07-05 23:59:44,607 - INFO - Saved best model
+2024-07-05 23:59:51,539 - INFO - >> EPOCH 040, Group 0 hit@50: 0.4251, Group 1 hit@50: 0.3647, Overall hit@50: 0.4036.
+2024-07-05 23:59:51,625 - INFO - Saved best model
+2024-07-05 23:59:58,518 - INFO - >> EPOCH 041, Group 0 hit@50: 0.4250, Group 1 hit@50: 0.3630, Overall hit@50: 0.4029.
+2024-07-06 00:00:05,442 - INFO - >> EPOCH 042, Group 0 hit@50: 0.4239, Group 1 hit@50: 0.3619, Overall hit@50: 0.4018.
+2024-07-06 00:00:12,360 - INFO - >> EPOCH 043, Group 0 hit@50: 0.4226, Group 1 hit@50: 0.3613, Overall hit@50: 0.4008.
+2024-07-06 00:00:19,215 - INFO - >> EPOCH 044, Group 0 hit@50: 0.4265, Group 1 hit@50: 0.3613, Overall hit@50: 0.4033.
+2024-07-06 00:00:26,178 - INFO - >> EPOCH 045, Group 0 hit@50: 0.4240, Group 1 hit@50: 0.3599, Overall hit@50: 0.4012.
+2024-07-06 00:00:33,040 - INFO - >> EPOCH 046, Group 0 hit@50: 0.4267, Group 1 hit@50: 0.3588, Overall hit@50: 0.4025.
+2024-07-06 00:00:39,943 - INFO - >> EPOCH 047, Group 0 hit@50: 0.4273, Group 1 hit@50: 0.3608, Overall hit@50: 0.4036.
+2024-07-06 00:00:46,771 - INFO - >> EPOCH 048, Group 0 hit@50: 0.4275, Group 1 hit@50: 0.3574, Overall hit@50: 0.4025.
+2024-07-06 00:00:53,631 - INFO - >> EPOCH 049, Group 0 hit@50: 0.4247, Group 1 hit@50: 0.3546, Overall hit@50: 0.3997.
+2024-07-06 00:01:00,526 - INFO - >> EPOCH 050, Group 0 hit@50: 0.4247, Group 1 hit@50: 0.3532, Overall hit@50: 0.3992.
+2024-07-06 00:01:07,400 - INFO - >> EPOCH 051, Group 0 hit@50: 0.4258, Group 1 hit@50: 0.3543, Overall hit@50: 0.4003.
+2024-07-06 00:01:14,371 - INFO - >> EPOCH 052, Group 0 hit@50: 0.4270, Group 1 hit@50: 0.3532, Overall hit@50: 0.4007.
+2024-07-06 00:01:21,245 - INFO - >> EPOCH 053, Group 0 hit@50: 0.4296, Group 1 hit@50: 0.3546, Overall hit@50: 0.4029.
+2024-07-06 00:01:28,140 - INFO - >> EPOCH 054, Group 0 hit@50: 0.4331, Group 1 hit@50: 0.3560, Overall hit@50: 0.4056.
+2024-07-06 00:01:28,237 - INFO - Saved best model
+2024-07-06 00:01:35,122 - INFO - >> EPOCH 055, Group 0 hit@50: 0.4329, Group 1 hit@50: 0.3574, Overall hit@50: 0.4060.
+2024-07-06 00:01:35,208 - INFO - Saved best model
+2024-07-06 00:01:42,045 - INFO - >> EPOCH 056, Group 0 hit@50: 0.4366, Group 1 hit@50: 0.3591, Overall hit@50: 0.4090.
+2024-07-06 00:01:42,126 - INFO - Saved best model
+2024-07-06 00:01:49,000 - INFO - >> EPOCH 057, Group 0 hit@50: 0.4346, Group 1 hit@50: 0.3554, Overall hit@50: 0.4064.
+2024-07-06 00:01:55,856 - INFO - >> EPOCH 058, Group 0 hit@50: 0.4357, Group 1 hit@50: 0.3560, Overall hit@50: 0.4073.
+2024-07-06 00:02:02,767 - INFO - >> EPOCH 059, Group 0 hit@50: 0.4345, Group 1 hit@50: 0.3523, Overall hit@50: 0.4052.
+2024-07-06 00:02:10,140 - INFO - >> EPOCH 060, Group 0 hit@50: 0.4354, Group 1 hit@50: 0.3512, Overall hit@50: 0.4054.
+2024-07-06 00:02:17,165 - INFO - >> EPOCH 061, Group 0 hit@50: 0.4358, Group 1 hit@50: 0.3532, Overall hit@50: 0.4064.
+2024-07-06 00:02:24,145 - INFO - >> EPOCH 062, Group 0 hit@50: 0.4386, Group 1 hit@50: 0.3529, Overall hit@50: 0.4081.
+2024-07-06 00:02:31,115 - INFO - >> EPOCH 063, Group 0 hit@50: 0.4371, Group 1 hit@50: 0.3520, Overall hit@50: 0.4068.
+2024-07-06 00:02:38,104 - INFO - >> EPOCH 064, Group 0 hit@50: 0.4418, Group 1 hit@50: 0.3543, Overall hit@50: 0.4106.
+2024-07-06 00:02:38,205 - INFO - Saved best model
+2024-07-06 00:02:45,230 - INFO - >> EPOCH 065, Group 0 hit@50: 0.4402, Group 1 hit@50: 0.3532, Overall hit@50: 0.4092.
+2024-07-06 00:02:52,266 - INFO - >> EPOCH 066, Group 0 hit@50: 0.4425, Group 1 hit@50: 0.3560, Overall hit@50: 0.4117.
+2024-07-06 00:02:52,366 - INFO - Saved best model
+2024-07-06 00:02:59,278 - INFO - >> EPOCH 067, Group 0 hit@50: 0.4421, Group 1 hit@50: 0.3546, Overall hit@50: 0.4109.
+2024-07-06 00:03:06,172 - INFO - >> EPOCH 068, Group 0 hit@50: 0.4416, Group 1 hit@50: 0.3535, Overall hit@50: 0.4102.
+2024-07-06 00:03:13,061 - INFO - >> EPOCH 069, Group 0 hit@50: 0.4413, Group 1 hit@50: 0.3512, Overall hit@50: 0.4092.
+2024-07-06 00:03:19,895 - INFO - >> EPOCH 070, Group 0 hit@50: 0.4425, Group 1 hit@50: 0.3529, Overall hit@50: 0.4106.
+2024-07-06 00:03:26,760 - INFO - >> EPOCH 071, Group 0 hit@50: 0.4418, Group 1 hit@50: 0.3520, Overall hit@50: 0.4098.
+2024-07-06 00:03:33,644 - INFO - >> EPOCH 072, Group 0 hit@50: 0.4404, Group 1 hit@50: 0.3501, Overall hit@50: 0.4082.
+2024-07-06 00:03:40,484 - INFO - >> EPOCH 073, Group 0 hit@50: 0.4383, Group 1 hit@50: 0.3490, Overall hit@50: 0.4065.
+2024-07-06 00:03:47,386 - INFO - >> EPOCH 074, Group 0 hit@50: 0.4379, Group 1 hit@50: 0.3476, Overall hit@50: 0.4057.
+2024-07-06 00:03:54,318 - INFO - >> EPOCH 075, Group 0 hit@50: 0.4397, Group 1 hit@50: 0.3506, Overall hit@50: 0.4080.
+2024-07-06 00:04:01,202 - INFO - >> EPOCH 076, Group 0 hit@50: 0.4411, Group 1 hit@50: 0.3515, Overall hit@50: 0.4092.
+2024-07-06 00:04:08,034 - INFO - >> EPOCH 077, Group 0 hit@50: 0.4413, Group 1 hit@50: 0.3512, Overall hit@50: 0.4092.
+2024-07-06 00:04:14,870 - INFO - >> EPOCH 078, Group 0 hit@50: 0.4414, Group 1 hit@50: 0.3537, Overall hit@50: 0.4102.
+2024-07-06 00:04:21,786 - INFO - >> EPOCH 079, Group 0 hit@50: 0.4418, Group 1 hit@50: 0.3532, Overall hit@50: 0.4102.
+2024-07-06 00:04:28,651 - INFO - >> EPOCH 080, Group 0 hit@50: 0.4408, Group 1 hit@50: 0.3535, Overall hit@50: 0.4097.
+2024-07-06 00:04:35,612 - INFO - >> EPOCH 081, Group 0 hit@50: 0.4435, Group 1 hit@50: 0.3565, Overall hit@50: 0.4125.
+2024-07-06 00:04:35,712 - INFO - Saved best model
+2024-07-06 00:04:42,538 - INFO - >> EPOCH 082, Group 0 hit@50: 0.4450, Group 1 hit@50: 0.3565, Overall hit@50: 0.4135.
+2024-07-06 00:04:42,623 - INFO - Saved best model
+2024-07-06 00:04:49,476 - INFO - >> EPOCH 083, Group 0 hit@50: 0.4472, Group 1 hit@50: 0.3577, Overall hit@50: 0.4153.
+2024-07-06 00:04:49,566 - INFO - Saved best model
+2024-07-06 00:04:56,505 - INFO - >> EPOCH 084, Group 0 hit@50: 0.4470, Group 1 hit@50: 0.3585, Overall hit@50: 0.4155.
+2024-07-06 00:04:56,589 - INFO - Saved best model
+2024-07-06 00:05:03,479 - INFO - >> EPOCH 085, Group 0 hit@50: 0.4483, Group 1 hit@50: 0.3591, Overall hit@50: 0.4165.
+2024-07-06 00:05:03,566 - INFO - Saved best model
+2024-07-06 00:05:10,499 - INFO - >> EPOCH 086, Group 0 hit@50: 0.4475, Group 1 hit@50: 0.3591, Overall hit@50: 0.4160.
+2024-07-06 00:05:17,336 - INFO - >> EPOCH 087, Group 0 hit@50: 0.4489, Group 1 hit@50: 0.3613, Overall hit@50: 0.4177.
+2024-07-06 00:05:17,421 - INFO - Saved best model
+2024-07-06 00:05:24,475 - INFO - >> EPOCH 088, Group 0 hit@50: 0.4469, Group 1 hit@50: 0.3602, Overall hit@50: 0.4160.
+2024-07-06 00:05:31,522 - INFO - >> EPOCH 089, Group 0 hit@50: 0.4497, Group 1 hit@50: 0.3599, Overall hit@50: 0.4177.
+2024-07-06 00:05:38,588 - INFO - >> EPOCH 090, Group 0 hit@50: 0.4531, Group 1 hit@50: 0.3644, Overall hit@50: 0.4215.
+2024-07-06 00:05:38,682 - INFO - Saved best model
+2024-07-06 00:05:45,824 - INFO - >> EPOCH 091, Group 0 hit@50: 0.4525, Group 1 hit@50: 0.3630, Overall hit@50: 0.4206.
+2024-07-06 00:05:52,753 - INFO - >> EPOCH 092, Group 0 hit@50: 0.4526, Group 1 hit@50: 0.3616, Overall hit@50: 0.4202.
+2024-07-06 00:05:59,699 - INFO - >> EPOCH 093, Group 0 hit@50: 0.4526, Group 1 hit@50: 0.3616, Overall hit@50: 0.4202.
+2024-07-06 00:06:06,620 - INFO - >> EPOCH 094, Group 0 hit@50: 0.4517, Group 1 hit@50: 0.3638, Overall hit@50: 0.4204.
+2024-07-06 00:06:13,460 - INFO - >> EPOCH 095, Group 0 hit@50: 0.4534, Group 1 hit@50: 0.3636, Overall hit@50: 0.4214.
+2024-07-06 00:06:20,334 - INFO - >> EPOCH 096, Group 0 hit@50: 0.4532, Group 1 hit@50: 0.3630, Overall hit@50: 0.4211.
+2024-07-06 00:06:27,158 - INFO - >> EPOCH 097, Group 0 hit@50: 0.4532, Group 1 hit@50: 0.3633, Overall hit@50: 0.4212.
+2024-07-06 00:06:34,135 - INFO - >> EPOCH 098, Group 0 hit@50: 0.4536, Group 1 hit@50: 0.3647, Overall hit@50: 0.4219.
+2024-07-06 00:06:34,234 - INFO - Saved best model
+2024-07-06 00:06:41,093 - INFO - >> EPOCH 099, Group 0 hit@50: 0.4553, Group 1 hit@50: 0.3638, Overall hit@50: 0.4227.
+2024-07-06 00:06:41,188 - INFO - Saved best model
+2024-07-06 00:06:48,034 - INFO - >> EPOCH 100, Group 0 hit@50: 0.4553, Group 1 hit@50: 0.3650, Overall hit@50: 0.4231.
+2024-07-06 00:06:48,129 - INFO - Saved best model
+2024-07-06 00:06:55,070 - INFO - >> EPOCH 101, Group 0 hit@50: 0.4557, Group 1 hit@50: 0.3655, Overall hit@50: 0.4236.
+2024-07-06 00:06:55,157 - INFO - Saved best model
+2024-07-06 00:07:02,035 - INFO - >> EPOCH 102, Group 0 hit@50: 0.4556, Group 1 hit@50: 0.3650, Overall hit@50: 0.4233.
+2024-07-06 00:07:08,962 - INFO - >> EPOCH 103, Group 0 hit@50: 0.4560, Group 1 hit@50: 0.3641, Overall hit@50: 0.4233.
+2024-07-06 00:07:15,789 - INFO - >> EPOCH 104, Group 0 hit@50: 0.4560, Group 1 hit@50: 0.3641, Overall hit@50: 0.4233.
+2024-07-06 00:07:22,661 - INFO - >> EPOCH 105, Group 0 hit@50: 0.4582, Group 1 hit@50: 0.3672, Overall hit@50: 0.4258.
+2024-07-06 00:07:22,750 - INFO - Saved best model
+2024-07-06 00:07:23,086 - INFO - >> TEST
+>> Group 0 hit@50: 0.4582, Group 1 hit@50: 0.3672, Overall hit@50: 0.4258.
+
+
+2024-07-06 00:08:15,348 - INFO - >> EPOCH 001, Group 0 hit@50: 0.3111, Group 1 hit@50: 0.0347, Overall hit@50: 0.2460.
+2024-07-06 00:08:15,807 - INFO - Saved best model
+2024-07-06 00:09:00,487 - INFO - >> EPOCH 002, Group 0 hit@50: 0.3910, Group 1 hit@50: 0.0455, Overall hit@50: 0.3096.
+2024-07-06 00:09:00,952 - INFO - Saved best model
+2024-07-06 00:09:45,302 - INFO - >> EPOCH 003, Group 0 hit@50: 0.4579, Group 1 hit@50: 0.0590, Overall hit@50: 0.3640.
+2024-07-06 00:09:45,752 - INFO - Saved best model
+2024-07-06 00:10:31,059 - INFO - >> EPOCH 004, Group 0 hit@50: 0.5020, Group 1 hit@50: 0.0778, Overall hit@50: 0.4021.
+2024-07-06 00:10:31,500 - INFO - Saved best model
+2024-07-06 00:11:15,857 - INFO - >> EPOCH 005, Group 0 hit@50: 0.5396, Group 1 hit@50: 0.0940, Overall hit@50: 0.4347.
+2024-07-06 00:11:16,303 - INFO - Saved best model
+2024-07-06 00:12:00,740 - INFO - >> EPOCH 006, Group 0 hit@50: 0.5509, Group 1 hit@50: 0.1018, Overall hit@50: 0.4451.
+2024-07-06 00:12:01,187 - INFO - Saved best model
+2024-07-06 00:12:45,113 - INFO - >> EPOCH 007, Group 0 hit@50: 0.5670, Group 1 hit@50: 0.1102, Overall hit@50: 0.4595.
+2024-07-06 00:12:45,573 - INFO - Saved best model
+2024-07-06 00:13:29,220 - INFO - >> EPOCH 008, Group 0 hit@50: 0.5847, Group 1 hit@50: 0.1251, Overall hit@50: 0.4765.
+2024-07-06 00:13:29,681 - INFO - Saved best model
+2024-07-06 00:14:13,740 - INFO - >> EPOCH 009, Group 0 hit@50: 0.5948, Group 1 hit@50: 0.1323, Overall hit@50: 0.4859.
+2024-07-06 00:14:14,181 - INFO - Saved best model
+2024-07-06 00:14:57,877 - INFO - >> EPOCH 010, Group 0 hit@50: 0.6162, Group 1 hit@50: 0.1464, Overall hit@50: 0.5056.
+2024-07-06 00:14:58,322 - INFO - Saved best model
+2024-07-06 00:15:42,506 - INFO - >> EPOCH 011, Group 0 hit@50: 0.6234, Group 1 hit@50: 0.1528, Overall hit@50: 0.5126.
+2024-07-06 00:15:42,959 - INFO - Saved best model
+2024-07-06 00:16:26,781 - INFO - >> EPOCH 012, Group 0 hit@50: 0.6262, Group 1 hit@50: 0.1588, Overall hit@50: 0.5161.
+2024-07-06 00:16:27,227 - INFO - Saved best model
+2024-07-06 00:17:11,183 - INFO - >> EPOCH 013, Group 0 hit@50: 0.6206, Group 1 hit@50: 0.1597, Overall hit@50: 0.5121.
+2024-07-06 00:17:54,822 - INFO - >> EPOCH 014, Group 0 hit@50: 0.6299, Group 1 hit@50: 0.1684, Overall hit@50: 0.5213.
+2024-07-06 00:17:55,266 - INFO - Saved best model
+2024-07-06 00:18:39,570 - INFO - >> EPOCH 015, Group 0 hit@50: 0.6479, Group 1 hit@50: 0.1802, Overall hit@50: 0.5378.
+2024-07-06 00:18:40,033 - INFO - Saved best model
+2024-07-06 00:19:24,080 - INFO - >> EPOCH 016, Group 0 hit@50: 0.6467, Group 1 hit@50: 0.1826, Overall hit@50: 0.5374.
+2024-07-06 00:20:08,229 - INFO - >> EPOCH 017, Group 0 hit@50: 0.6569, Group 1 hit@50: 0.1943, Overall hit@50: 0.5479.
+2024-07-06 00:20:08,687 - INFO - Saved best model
+2024-07-06 00:20:52,764 - INFO - >> EPOCH 018, Group 0 hit@50: 0.6568, Group 1 hit@50: 0.1960, Overall hit@50: 0.5483.
+2024-07-06 00:20:53,216 - INFO - Saved best model
+2024-07-06 00:21:36,957 - INFO - >> EPOCH 019, Group 0 hit@50: 0.6569, Group 1 hit@50: 0.1983, Overall hit@50: 0.5489.
+2024-07-06 00:21:37,412 - INFO - Saved best model
+2024-07-06 00:22:21,174 - INFO - >> EPOCH 020, Group 0 hit@50: 0.6551, Group 1 hit@50: 0.2005, Overall hit@50: 0.5480.
+2024-07-06 00:23:04,986 - INFO - >> EPOCH 021, Group 0 hit@50: 0.6588, Group 1 hit@50: 0.2067, Overall hit@50: 0.5523.
+2024-07-06 00:23:05,435 - INFO - Saved best model
+2024-07-06 00:23:52,133 - INFO - >> EPOCH 022, Group 0 hit@50: 0.6734, Group 1 hit@50: 0.2171, Overall hit@50: 0.5660.
+2024-07-06 00:23:53,888 - INFO - Saved best model
+2024-07-06 00:24:40,969 - INFO - >> EPOCH 023, Group 0 hit@50: 0.6666, Group 1 hit@50: 0.2157, Overall hit@50: 0.5605.
+2024-07-06 00:25:25,618 - INFO - >> EPOCH 024, Group 0 hit@50: 0.6629, Group 1 hit@50: 0.2146, Overall hit@50: 0.5574.
+2024-07-06 00:26:10,049 - INFO - >> EPOCH 025, Group 0 hit@50: 0.6624, Group 1 hit@50: 0.2151, Overall hit@50: 0.5571.
+2024-07-06 00:26:54,266 - INFO - >> EPOCH 026, Group 0 hit@50: 0.6632, Group 1 hit@50: 0.2177, Overall hit@50: 0.5583.
+2024-07-06 00:27:38,297 - INFO - >> EPOCH 027, Group 0 hit@50: 0.6682, Group 1 hit@50: 0.2228, Overall hit@50: 0.5634.
+2024-07-06 00:28:22,459 - INFO - >> EPOCH 028, Group 0 hit@50: 0.6789, Group 1 hit@50: 0.2331, Overall hit@50: 0.5739.
+2024-07-06 00:28:22,894 - INFO - Saved best model
+2024-07-06 00:29:06,816 - INFO - >> EPOCH 029, Group 0 hit@50: 0.6728, Group 1 hit@50: 0.2300, Overall hit@50: 0.5686.
+2024-07-06 00:29:51,389 - INFO - >> EPOCH 030, Group 0 hit@50: 0.6779, Group 1 hit@50: 0.2366, Overall hit@50: 0.5740.
+2024-07-06 00:29:51,807 - INFO - Saved best model
+2024-07-06 00:30:39,474 - INFO - >> EPOCH 031, Group 0 hit@50: 0.6823, Group 1 hit@50: 0.2398, Overall hit@50: 0.5781.
+2024-07-06 00:30:39,911 - INFO - Saved best model
+2024-07-06 00:31:24,398 - INFO - >> EPOCH 032, Group 0 hit@50: 0.6912, Group 1 hit@50: 0.2499, Overall hit@50: 0.5873.
+2024-07-06 00:31:24,839 - INFO - Saved best model
+2024-07-06 00:32:13,176 - INFO - >> EPOCH 033, Group 0 hit@50: 0.6904, Group 1 hit@50: 0.2497, Overall hit@50: 0.5867.
+2024-07-06 00:33:06,044 - INFO - >> EPOCH 034, Group 0 hit@50: 0.6922, Group 1 hit@50: 0.2509, Overall hit@50: 0.5883.
+2024-07-06 00:33:06,487 - INFO - Saved best model
+2024-07-06 00:33:56,997 - INFO - >> EPOCH 035, Group 0 hit@50: 0.6857, Group 1 hit@50: 0.2475, Overall hit@50: 0.5825.
+2024-07-06 00:34:47,471 - INFO - >> EPOCH 036, Group 0 hit@50: 0.6899, Group 1 hit@50: 0.2558, Overall hit@50: 0.5877.
+2024-07-06 00:35:37,550 - INFO - >> EPOCH 037, Group 0 hit@50: 0.6865, Group 1 hit@50: 0.2550, Overall hit@50: 0.5849.
+2024-07-06 00:36:28,645 - INFO - >> EPOCH 038, Group 0 hit@50: 0.7029, Group 1 hit@50: 0.2654, Overall hit@50: 0.5998.
+2024-07-06 00:36:29,100 - INFO - Saved best model
+2024-07-06 00:37:20,138 - INFO - >> EPOCH 039, Group 0 hit@50: 0.7138, Group 1 hit@50: 0.2713, Overall hit@50: 0.6096.
+2024-07-06 00:37:20,626 - INFO - Saved best model
+2024-07-06 00:38:10,375 - INFO - >> EPOCH 040, Group 0 hit@50: 0.7140, Group 1 hit@50: 0.2737, Overall hit@50: 0.6103.
+2024-07-06 00:38:10,878 - INFO - Saved best model
+2024-07-06 00:39:01,376 - INFO - >> EPOCH 041, Group 0 hit@50: 0.7170, Group 1 hit@50: 0.2766, Overall hit@50: 0.6133.
+2024-07-06 00:39:01,864 - INFO - Saved best model
+2024-07-06 00:39:51,626 - INFO - >> EPOCH 042, Group 0 hit@50: 0.7222, Group 1 hit@50: 0.2818, Overall hit@50: 0.6185.
+2024-07-06 00:39:52,055 - INFO - Saved best model
+2024-07-06 00:40:43,666 - INFO - >> EPOCH 043, Group 0 hit@50: 0.7181, Group 1 hit@50: 0.2788, Overall hit@50: 0.6146.
+2024-07-06 00:41:33,789 - INFO - >> EPOCH 044, Group 0 hit@50: 0.7150, Group 1 hit@50: 0.2775, Overall hit@50: 0.6120.
+2024-07-06 00:42:18,888 - INFO - >> EPOCH 045, Group 0 hit@50: 0.7200, Group 1 hit@50: 0.2847, Overall hit@50: 0.6175.
+2024-07-06 00:43:03,202 - INFO - >> EPOCH 046, Group 0 hit@50: 0.7204, Group 1 hit@50: 0.2844, Overall hit@50: 0.6177.
+2024-07-06 00:43:47,704 - INFO - >> EPOCH 047, Group 0 hit@50: 0.7249, Group 1 hit@50: 0.2876, Overall hit@50: 0.6219.
+2024-07-06 00:43:48,155 - INFO - Saved best model
+2024-07-06 00:44:32,016 - INFO - >> EPOCH 048, Group 0 hit@50: 0.7271, Group 1 hit@50: 0.2904, Overall hit@50: 0.6243.
+2024-07-06 00:44:32,447 - INFO - Saved best model
+2024-07-06 00:45:16,602 - INFO - >> EPOCH 049, Group 0 hit@50: 0.7428, Group 1 hit@50: 0.3036, Overall hit@50: 0.6394.
+2024-07-06 00:45:17,055 - INFO - Saved best model
+2024-07-06 00:46:01,245 - INFO - >> EPOCH 050, Group 0 hit@50: 0.7378, Group 1 hit@50: 0.2986, Overall hit@50: 0.6344.
+2024-07-06 00:46:45,141 - INFO - >> EPOCH 051, Group 0 hit@50: 0.7388, Group 1 hit@50: 0.3004, Overall hit@50: 0.6356.
+2024-07-06 00:47:29,011 - INFO - >> EPOCH 052, Group 0 hit@50: 0.7388, Group 1 hit@50: 0.3021, Overall hit@50: 0.6360.
+2024-07-06 00:48:13,450 - INFO - >> EPOCH 053, Group 0 hit@50: 0.7461, Group 1 hit@50: 0.3094, Overall hit@50: 0.6433.
+2024-07-06 00:48:13,900 - INFO - Saved best model
+2024-07-06 00:48:57,635 - INFO - >> EPOCH 054, Group 0 hit@50: 0.7362, Group 1 hit@50: 0.3022, Overall hit@50: 0.6340.
+2024-07-06 00:49:42,361 - INFO - >> EPOCH 055, Group 0 hit@50: 0.7327, Group 1 hit@50: 0.2995, Overall hit@50: 0.6307.
+2024-07-06 00:50:26,365 - INFO - >> EPOCH 056, Group 0 hit@50: 0.7341, Group 1 hit@50: 0.3020, Overall hit@50: 0.6323.
+2024-07-06 00:51:10,440 - INFO - >> EPOCH 057, Group 0 hit@50: 0.7386, Group 1 hit@50: 0.3049, Overall hit@50: 0.6365.
+2024-07-06 00:51:54,460 - INFO - >> EPOCH 058, Group 0 hit@50: 0.7420, Group 1 hit@50: 0.3091, Overall hit@50: 0.6401.
+2024-07-06 00:52:40,021 - INFO - >> EPOCH 059, Group 0 hit@50: 0.7486, Group 1 hit@50: 0.3156, Overall hit@50: 0.6466.
+2024-07-06 00:52:40,467 - INFO - Saved best model
+2024-07-06 00:53:25,370 - INFO - >> EPOCH 060, Group 0 hit@50: 0.7540, Group 1 hit@50: 0.3194, Overall hit@50: 0.6516.
+2024-07-06 00:53:25,796 - INFO - Saved best model
+2024-07-06 00:54:09,975 - INFO - >> EPOCH 061, Group 0 hit@50: 0.7475, Group 1 hit@50: 0.3163, Overall hit@50: 0.6460.
+2024-07-06 00:54:53,843 - INFO - >> EPOCH 062, Group 0 hit@50: 0.7497, Group 1 hit@50: 0.3172, Overall hit@50: 0.6478.
+2024-07-06 00:55:37,987 - INFO - >> EPOCH 063, Group 0 hit@50: 0.7575, Group 1 hit@50: 0.3237, Overall hit@50: 0.6554.
+2024-07-06 00:55:38,417 - INFO - Saved best model
+2024-07-06 00:56:22,909 - INFO - >> EPOCH 064, Group 0 hit@50: 0.7531, Group 1 hit@50: 0.3218, Overall hit@50: 0.6515.
+2024-07-06 00:57:08,728 - INFO - >> EPOCH 065, Group 0 hit@50: 0.7578, Group 1 hit@50: 0.3256, Overall hit@50: 0.6560.
+2024-07-06 00:57:09,154 - INFO - Saved best model
+2024-07-06 00:57:53,196 - INFO - >> EPOCH 066, Group 0 hit@50: 0.7641, Group 1 hit@50: 0.3328, Overall hit@50: 0.6626.
+2024-07-06 00:57:53,629 - INFO - Saved best model
+2024-07-06 00:58:38,634 - INFO - >> EPOCH 067, Group 0 hit@50: 0.7754, Group 1 hit@50: 0.3432, Overall hit@50: 0.6737.
+2024-07-06 00:58:39,075 - INFO - Saved best model
+2024-07-06 00:59:23,185 - INFO - >> EPOCH 068, Group 0 hit@50: 0.7712, Group 1 hit@50: 0.3395, Overall hit@50: 0.6695.
+2024-07-06 01:00:08,664 - INFO - >> EPOCH 069, Group 0 hit@50: 0.7677, Group 1 hit@50: 0.3376, Overall hit@50: 0.6664.
+2024-07-06 01:00:54,813 - INFO - >> EPOCH 070, Group 0 hit@50: 0.7638, Group 1 hit@50: 0.3354, Overall hit@50: 0.6629.
+2024-07-06 01:01:38,907 - INFO - >> EPOCH 071, Group 0 hit@50: 0.7683, Group 1 hit@50: 0.3391, Overall hit@50: 0.6672.
+2024-07-06 01:02:22,979 - INFO - >> EPOCH 072, Group 0 hit@50: 0.7717, Group 1 hit@50: 0.3414, Overall hit@50: 0.6704.
+2024-07-06 01:03:07,216 - INFO - >> EPOCH 073, Group 0 hit@50: 0.7644, Group 1 hit@50: 0.3350, Overall hit@50: 0.6633.
+2024-07-06 01:03:07,216 - INFO - Training stopped early at epoch 73
+2024-07-06 01:03:07,736 - INFO - >> TEST
+>> Group 0 hit@50: 0.7754, Group 1 hit@50: 0.3432, Overall hit@50: 0.6737.

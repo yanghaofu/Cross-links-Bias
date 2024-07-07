@@ -76,7 +76,11 @@ def e2e_train(graph, EPOCH, model_ori, model_aug, model_cal,
     LR = args.alpha * 1 / (1 + math.exp(-EPOCH + args.threshold))
     STEP = int(args.beta * 1 / (1 + math.exp(-EPOCH + args.threshold))) + 1
 
-    optimizer_cal = torch.optim.Adam(model_cal.parameters(), lr=LR) #消融实验需要删掉
+    # # 消融实验
+    # LR = 0.01
+    # STEP = 12
+    
+    # optimizer_cal = torch.optim.Adam(model_cal.parameters(), lr=LR) #消融实验需要删掉
     optimizer_aug = torch.optim.Adam(model_aug.parameters(), lr=LR)
     optimizer_ori = torch.optim.Adam(model_ori.parameters(), lr=LR)
 
@@ -117,14 +121,14 @@ def e2e_train(graph, EPOCH, model_ori, model_aug, model_cal,
             loss = pos_loss + neg_loss
 
             # 梯度更新
-            optimizer_cal.zero_grad() #消融实验去除
+            # optimizer_cal.zero_grad() #消融实验去除
             optimizer_aug.zero_grad()
             optimizer_ori.zero_grad()
             loss.backward()
             torch.nn.utils.clip_grad_norm_(model_cal.parameters(), 1.0)
             torch.nn.utils.clip_grad_norm_(model_aug.parameters(), 1.0)
             torch.nn.utils.clip_grad_norm_(model_ori.parameters(), 1.0)
-            optimizer_cal.step() #消融实验去除
+            # optimizer_cal.step() #消融实验去除
             optimizer_aug.step()
             optimizer_ori.step()
 
@@ -396,7 +400,7 @@ def e2e_ultra_train(graph, EPOCH, model_ori, model_aug, model_cal,
     LR = args.alpha * 1 / (1 + math.exp(-EPOCH+args.threshold))
     STEP = int(args.beta * 1 / (1 + math.exp(-EPOCH+args.threshold))) + 1
 
-    optimizer_cal = torch.optim.Adam(model_cal.parameters(), lr=LR) #消融实验
+    # optimizer_cal = torch.optim.Adam(model_cal.parameters(), lr=LR) #消融实验
     optimizer_aug = torch.optim.Adam(model_aug.parameters(), lr=LR)
     optimizer_ori = torch.optim.Adam(model_ori.parameters(), lr=LR)
 
@@ -425,14 +429,14 @@ def e2e_ultra_train(graph, EPOCH, model_ori, model_aug, model_cal,
 
             loss = pos_loss + neg_loss
 
-            optimizer_cal.zero_grad() #消融实验
+            # optimizer_cal.zero_grad() #消融实验
             optimizer_aug.zero_grad()
             optimizer_ori.zero_grad()
             loss.backward()
             torch.nn.utils.clip_grad_norm_(model_cal.parameters(), 1.0)
             torch.nn.utils.clip_grad_norm_(model_aug.parameters(), 1.0)
             torch.nn.utils.clip_grad_norm_(model_ori.parameters(), 1.0)
-            optimizer_cal.step() 
+            # optimizer_cal.step() 
             optimizer_aug.step()
             optimizer_ori.step()
 

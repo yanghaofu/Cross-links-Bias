@@ -175,6 +175,7 @@ parser.add_argument('--aug_type', type=str, help='rw or jaccard')
 parser.add_argument('--alpha', type=float)
 parser.add_argument('--train_ratio', type=float)
 parser.add_argument('--beta', type=int)
+parser.add_argument('--lr', type=float, default=0.001, help='learning rate')
 
 args = parser.parse_args()
 print(args)
