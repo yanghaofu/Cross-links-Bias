@@ -58,3 +58,14 @@ month = {October},
 url = {https://www.microsoft.com/en-us/research/publication/cross-links-matter-for-link-prediction-rethinking-the-debiased-gnn-from-a-data-perspective/},
 }
 ``` 
+
+## 补充
+1. lightgcn.py : 通过运行下面的命令即可进行对比实验，训练日志存储在Log/training.log。
+```
+> bash script/lightgcn.sh
+```
+2. improve.py ：尝试在融合模块添加对比损失，以保证融合特征视野全面，训练日志存储在Log/improve.log。这个改进在Epinions数据集上取得优化的效果。
+```
+> bash script/lightgcn.sh
+```
+3. 记录.md：记录了复现过程以及结果，对于消融实验的方法在文档中也有提及。
